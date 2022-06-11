@@ -1,0 +1,4 @@
+[14-Mar-2021 23:23:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home4/psbd/photodesignexpert.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/bootstrap/app.php on line 14

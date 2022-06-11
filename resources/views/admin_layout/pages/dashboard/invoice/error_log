@@ -1,0 +1,2 @@
+[13-Apr-2022 07:52:18 America/Boise] PHP Warning:  Undefined variable $order in /home4/photode7/public_html/resources/views/admin_layout/pages/dashboard/invoice/view.blade.php on line 167
+[13-Apr-2022 07:52:18 America/Boise] PHP Warning:  Attempt to read property "price" on null in /home4/photode7/public_html/resources/views/admin_layout/pages/dashboard/invoice/view.blade.php on line 167

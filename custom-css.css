@@ -1,0 +1,43 @@
+.overflow-not-hidden {
+    overflow: visible !important;
+}
+
+.img {
+    vertical-align: unset !important;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.img_wrp {
+    display: inline-block;
+    position: relative;
+}
+
+.edit {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+}
+
+.profile-image {
+    height: 250px;
+    width: 250px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.user_image {
+    height: 250px;
+    width: 250px;
+}
+
+.user-panel-img {
+    height: 2.1rem !important;
+    width: 2.1rem !important;
+    margin-top: -25px;
+}

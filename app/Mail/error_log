@@ -1,0 +1,68 @@
+[18-Sep-2021 18:41:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/FreeTrailMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/FreeTrailMail.php on line 10
+[25-Sep-2021 09:15:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php on line 10
+[01-Oct-2021 06:31:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php on line 10
+[05-Oct-2021 01:41:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php on line 10
+[08-Oct-2021 08:18:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/InvoiceMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/InvoiceMail.php on line 10
+[13-Oct-2021 11:14:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php on line 10
+[13-Oct-2021 13:39:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php on line 10
+[04-Nov-2021 00:48:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/FreeTrailMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/FreeTrailMail.php on line 10
+[09-Nov-2021 11:53:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/ContactMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/ContactMail.php on line 10
+[22-Dec-2021 07:03:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/FreeTrailMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/FreeTrailMail.php on line 10
+[28-Dec-2021 00:42:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/ContactMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/ContactMail.php on line 10
+[08-Jan-2022 03:18:12 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/InvoiceMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/InvoiceMail.php on line 10
+[11-Feb-2022 06:14:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php on line 10
+[12-Feb-2022 03:09:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/ContactMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/ContactMail.php on line 10
+[24-Feb-2022 14:49:47 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home4/photode7/public_html/app/Mail/InvoiceMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/InvoiceMail.php on line 10
+[08-May-2022 08:14:33 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home4/photode7/public_html/app/Mail/InvoiceMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/InvoiceMail.php on line 10
+[20-May-2022 08:18:49 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Mail/PlaceOrderMail.php on line 10

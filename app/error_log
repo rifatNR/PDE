@@ -1,0 +1,100 @@
+[14-Mar-2021 13:06:06 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/psbd/photodesignexpert.com/app/Contact.php on line 7
+[14-Mar-2021 23:22:55 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/psbd/photodesignexpert.com/app/Contact.php on line 7
+[14-Mar-2021 23:22:56 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/psbd/photodesignexpert.com/app/FreeTrail.php on line 7
+[14-Mar-2021 23:23:01 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home4/psbd/photodesignexpert.com/app/User.php on line 10
+[26-Sep-2021 01:31:46 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/FreeTrail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/FreeTrail.php on line 7
+[27-Sep-2021 17:20:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/InvoiceOrder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/InvoiceOrder.php on line 7
+[06-Oct-2021 18:32:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/Profile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Profile.php on line 8
+[02-Dec-2021 21:59:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/FreeTrail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/FreeTrail.php on line 7
+[11-Dec-2021 12:45:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/Contact.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Contact.php on line 7
+[29-Dec-2021 08:09:58 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/InvoiceOrder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/InvoiceOrder.php on line 7
+[07-Jan-2022 07:45:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/Profile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Profile.php on line 8
+[27-Jan-2022 06:59:36 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/Contact.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Contact.php on line 7
+[03-Feb-2022 20:14:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/InvoicePayment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/InvoicePayment.php on line 7
+[05-Feb-2022 10:37:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/Invoice.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Invoice.php on line 7
+[06-Feb-2022 03:38:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home4/photode7/public_html/app/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/User.php on line 11
+[13-Feb-2022 16:49:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/InvoiceOrder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/InvoiceOrder.php on line 7
+[23-Feb-2022 20:19:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home4/photode7/public_html/app/Profile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Profile.php on line 8
+[08-Mar-2022 14:07:53 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home4/photode7/public_html/app/FreeTrail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/FreeTrail.php on line 7
+[18-Mar-2022 01:32:19 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home4/photode7/public_html/app/Contact.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Contact.php on line 7
+[19-Mar-2022 22:49:28 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home4/photode7/public_html/app/Profile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Profile.php on line 8
+[24-Mar-2022 22:29:03 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home4/photode7/public_html/app/InvoicePayment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/InvoicePayment.php on line 7
+[27-Mar-2022 01:45:36 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home4/photode7/public_html/app/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/User.php on line 11
+[03-Apr-2022 22:47:04 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home4/photode7/public_html/app/InvoiceOrder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/InvoiceOrder.php on line 7
+[26-Apr-2022 18:54:50 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home4/photode7/public_html/app/FreeTrail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/FreeTrail.php on line 7
+[07-May-2022 13:17:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home4/photode7/public_html/app/Profile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Profile.php on line 8
+[12-May-2022 16:40:25 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home4/photode7/public_html/app/InvoicePayment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/InvoicePayment.php on line 7
+[15-May-2022 01:33:10 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home4/photode7/public_html/app/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/User.php on line 11
+[30-May-2022 08:08:08 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home4/photode7/public_html/app/Contact.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Contact.php on line 7

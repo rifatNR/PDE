@@ -1,0 +1,23 @@
+[15-Nov-2021 11:45:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home4/photode7/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/factories/UserFactory.php on line 20
+[29-Jan-2022 09:42:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home4/photode7/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/factories/UserFactory.php on line 20
+[14-Apr-2022 06:47:10 America/Boise] PHP Warning:  Undefined variable $factory in /home4/photode7/public_html/database/factories/UserFactory.php on line 20
+[14-Apr-2022 06:47:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home4/photode7/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/factories/UserFactory.php on line 20
+[03-May-2022 15:31:21 America/Boise] PHP Warning:  Undefined variable $factory in /home4/photode7/public_html/database/factories/UserFactory.php on line 20
+[03-May-2022 15:31:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home4/photode7/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/factories/UserFactory.php on line 20
+[01-Jun-2022 09:56:41 America/Boise] PHP Warning:  Undefined variable $factory in /home4/photode7/public_html/database/factories/UserFactory.php on line 20
+[01-Jun-2022 09:56:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home4/photode7/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/factories/UserFactory.php on line 20

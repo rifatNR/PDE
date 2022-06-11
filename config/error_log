@@ -1,0 +1,124 @@
+[14-Mar-2021 23:23:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/app.php on line 16
+[14-Mar-2021 23:23:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/broadcasting.php on line 18
+[14-Mar-2021 23:23:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/cache.php on line 21
+[14-Mar-2021 23:23:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/database.php on line 18
+[14-Mar-2021 23:23:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/filesystems.php on line 16
+[14-Mar-2021 23:23:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/hashing.php on line 32
+[14-Mar-2021 23:23:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/logging.php on line 20
+[14-Mar-2021 23:23:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/mail.php on line 16
+[14-Mar-2021 23:23:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/queue.php on line 16
+[14-Mar-2021 23:23:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/services.php on line 18
+[14-Mar-2021 23:23:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/psbd/photodesignexpert.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/session.php on line 21
+[14-Mar-2021 23:23:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home4/psbd/photodesignexpert.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/psbd/photodesignexpert.com/config/view.php on line 17
+[16-Sep-2021 19:41:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/database.php on line 18
+[17-Sep-2021 10:27:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/session.php on line 21
+[18-Sep-2021 13:14:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/filesystems.php on line 16
+[08-Oct-2021 19:08:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/services.php on line 18
+[08-Oct-2021 19:09:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/mail.php on line 16
+[08-Oct-2021 19:16:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/filesystems.php on line 16
+[08-Oct-2021 19:18:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/app.php on line 16
+[20-Oct-2021 21:21:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/services.php on line 18
+[20-Oct-2021 21:21:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/mail.php on line 16
+[20-Oct-2021 21:25:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/filesystems.php on line 16
+[20-Oct-2021 21:26:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/app.php on line 16
+[25-Oct-2021 18:38:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/mail.php on line 16
+[25-Oct-2021 19:12:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/app.php on line 16
+[31-Oct-2021 22:10:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/services.php on line 18
+[31-Oct-2021 22:10:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/mail.php on line 16
+[31-Oct-2021 22:10:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/filesystems.php on line 16
+[31-Oct-2021 22:11:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/app.php on line 16
+[05-Mar-2022 18:32:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/app.php on line 16
+[05-Mar-2022 18:32:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/photode7/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/config/app.php on line 16

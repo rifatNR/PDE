@@ -1,0 +1,89 @@
+/* Global styles */
+
+:root {
+    /* Colors */
+    --primary: #00801c;
+    --secondary: #c2c2c2;
+    --body-background: #f3f3f3;
+    --shadow: #0001;
+    --white: #fff;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background-color: var(--body-background);
+    padding: 1em;
+} */
+
+
+/* .container {
+    text-align: center;
+}
+
+.container p {
+    font-size: 2rem;
+    font-weight: lighter;
+    margin-bottom: 1em;
+    background-color: var(--white);
+    padding: 0.3em;
+    box-shadow: 0.1em 0.1em 0.3em var(--shadow);
+    border-radius: 0.2em;
+} */
+
+
+/* Switch styles */
+
+.switch {
+    top: 7px;
+    appearance: none;
+    height: 30px;
+    width: 50px;
+    background-color: var(--secondary);
+    cursor: pointer;
+    border-radius: 1em;
+    position: relative;
+    transition: background-color 0.3s ease;
+}
+
+.alignbtn {
+    position: relative !important;
+    top: -5px !important;
+}
+
+.switch::before {
+    content: "";
+    height: 100%;
+    width: 50%;
+    background-color: white;
+    position: absolute;
+    border-radius: 50%;
+    border: var(--secondary) solid 0.2em;
+    transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.switch:checked {
+    background-color: var(--primary);
+}
+
+.switch:checked::before {
+    border-color: var(--primary);
+    transform: translateX(100%);
+}
+
+@media screen and (max-width: 500px) {
+    .switch {
+        outline: none;
+    }
+}

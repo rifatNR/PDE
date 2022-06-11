@@ -1,0 +1,12 @@
+[26-Sep-2021 00:30:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home4/photode7/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/seeds/DatabaseSeeder.php on line 5
+[24-Nov-2021 16:01:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home4/photode7/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/seeds/DatabaseSeeder.php on line 5
+[18-Dec-2021 16:19:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home4/photode7/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/seeds/DatabaseSeeder.php on line 5

@@ -1,0 +1,4 @@
+[05-Mar-2022 18:07:48 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home4/photode7/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Exceptions/Handler.php on line 8

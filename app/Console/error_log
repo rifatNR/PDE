@@ -1,0 +1,4 @@
+[21-Nov-2021 22:49:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home4/photode7/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/app/Console/Kernel.php on line 8

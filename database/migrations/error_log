@@ -1,0 +1,160 @@
+[23-Sep-2021 13:05:47 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_10_093431_create_placeorders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_10_093431_create_placeorders_table.php on line 7
+[01-Oct-2021 02:50:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_06_094503_add_pdf_to_invoices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_06_094503_add_pdf_to_invoices_table.php on line 7
+[07-Oct-2021 14:13:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_06_061416_create_invoice_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_06_061416_create_invoice_payments_table.php on line 7
+[10-Oct-2021 03:33:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_03_27_072308_add_status_to_placeorders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_03_27_072308_add_status_to_placeorders_table.php on line 7
+[14-Oct-2021 02:05:02 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_10_093431_create_placeorders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_10_093431_create_placeorders_table.php on line 7
+[25-Oct-2021 16:16:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_03_25_064512_create_profiles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_03_25_064512_create_profiles_table.php on line 7
+[27-Oct-2021 08:54:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_11_105411_create_freetrails_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_11_105411_create_freetrails_table.php on line 7
+[28-Oct-2021 22:31:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_10_114619_create_place_order_images_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_10_114619_create_place_order_images_table.php on line 7
+[02-Nov-2021 20:30:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_10_114619_create_place_order_images_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_10_114619_create_place_order_images_table.php on line 7
+[05-Nov-2021 08:58:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_02_111310_create_invoices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_02_111310_create_invoices_table.php on line 7
+[05-Nov-2021 12:08:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_02_112104_create_invoice_orders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_02_112104_create_invoice_orders_table.php on line 7
+[07-Nov-2021 04:15:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_10_093431_create_placeorders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_10_093431_create_placeorders_table.php on line 7
+[08-Nov-2021 07:44:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_02_112104_create_invoice_orders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_02_112104_create_invoice_orders_table.php on line 7
+[09-Nov-2021 01:25:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_08_085038_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_08_085038_create_permission_tables.php on line 7
+[12-Nov-2021 05:04:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[12-Nov-2021 13:28:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_01_19_095145_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_01_19_095145_create_contacts_table.php on line 7
+[13-Nov-2021 09:02:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_06_094503_add_pdf_to_invoices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_06_094503_add_pdf_to_invoices_table.php on line 7
+[19-Nov-2021 07:30:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_02_111310_create_invoices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_02_111310_create_invoices_table.php on line 7
+[19-Nov-2021 16:48:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[20-Nov-2021 18:02:46 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_06_061416_create_invoice_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_06_061416_create_invoice_payments_table.php on line 7
+[22-Nov-2021 08:54:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Nov-2021 10:47:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_03_27_082518_add_date_to_placeorders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_03_27_082518_add_date_to_placeorders_table.php on line 7
+[25-Nov-2021 04:04:52 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_08_085038_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_08_085038_create_permission_tables.php on line 7
+[11-Dec-2021 05:26:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_11_105411_create_freetrails_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_11_105411_create_freetrails_table.php on line 7
+[30-Dec-2021 23:41:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[31-Dec-2021 06:20:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_01_19_095145_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_01_19_095145_create_contacts_table.php on line 7
+[03-Jan-2022 01:26:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_03_25_064512_create_profiles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_03_25_064512_create_profiles_table.php on line 7
+[08-Jan-2022 15:10:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[11-Jan-2022 15:58:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_08_085038_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_08_085038_create_permission_tables.php on line 7
+[13-Jan-2022 12:19:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_10_093431_create_placeorders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_10_093431_create_placeorders_table.php on line 7
+[14-Jan-2022 20:21:27 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_02_111310_create_invoices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_02_111310_create_invoices_table.php on line 7
+[26-Jan-2022 18:24:58 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_02_11_105411_create_freetrails_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_11_105411_create_freetrails_table.php on line 7
+[28-Jan-2022 22:12:24 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[15-Feb-2022 15:16:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[02-Mar-2022 08:28:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home4/photode7/public_html/database/migrations/2021_04_08_071016_add_mail_to_placeorders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_08_071016_add_mail_to_placeorders_table.php on line 7
+[03-Mar-2022 14:04:26 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home4/photode7/public_html/database/migrations/2021_04_02_111310_create_invoices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_02_111310_create_invoices_table.php on line 7
+[03-Mar-2022 19:05:36 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home4/photode7/public_html/database/migrations/2021_04_02_112104_create_invoice_orders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_04_02_112104_create_invoice_orders_table.php on line 7
+[19-Mar-2022 15:03:24 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[05-May-2022 02:42:11 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home4/photode7/public_html/database/migrations/2021_02_11_105411_create_freetrails_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2021_02_11_105411_create_freetrails_table.php on line 7
+[07-May-2022 03:36:06 America/Boise] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/photode7/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
