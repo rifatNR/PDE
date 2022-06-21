@@ -12,8 +12,8 @@
 
 
       <!-- ======= Portfolio Section ======= -->
-      <section id="portfolio" class="portfolio mt-5">
-        <div class="container pt-5">
+      <section id="portfolio" class="portfolio">
+        <div class="container">
 
             <div class="section-title" data-aos="zoom-out">
                 <h2>Portfolio</h2>
@@ -22,7 +22,7 @@
 
             <?php $services = \App\Model\DynamicService::where('status', 1)->orderBy('id', 'ASC')->get() ?>
 
-                <ul id="portfolio-flters" class="d-flex" data-aos="fade-up">
+                <ul id="portfolio-flters" class="d-md-flex" data-aos="fade-up">
                     <li data-filter="*" class="filter-active">All</li>
                     @foreach ($services as $service)
                         <?php

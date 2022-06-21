@@ -30,7 +30,7 @@
                     <p>Contact Us</p>
                 </div>
 
-                <div class="row mt-5">
+                <div class="row mt-0 mt-md-5">
 
                     <div class="col-lg-4" data-aos="fade-right">
                         <div class="info">

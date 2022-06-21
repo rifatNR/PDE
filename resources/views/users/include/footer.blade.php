@@ -1,7 +1,7 @@
-<footer id="footer" style="position: sticky; top: calc(100vh);">
+<footer id="footer" class="mt-3" style="position: sticky; top: calc(100vh);">
     <div class="container-fluid">
-        <div class="d-flex flex-row justify-content-around">
-            <div class="mt-5">
+        <div class="d-flex flex-column flex-md-row justify-content-around">
+            <div class="mt-4 mt-md-5">
                 <h3>Photo Design Expert</h3>
                 <p>-------To Create perfect</p>
                 <div class="social-links">
@@ -27,16 +27,16 @@
                     (adsbygoogle = window.adsbygoogle || []).push({});
                 </script>
             </div>
-            <div class="d-flex flex-column ">
-                <div class="text-center">
+            <div class="d-flex flex-column  mx-2 mx-md-0">
+                <div class="text-left text-md-center">
                     <strong class="address-head">Address BD:</strong>
                     <p>House 153, Word 11, South Hossainpur Sirajganj, Near Upazila Office, Sirajganj<br>Mobile: +8801677-302051</p>
                 </div>
-                <div class="text-center">
+                <div class="text-left text-md-center">
                     <strong >Address UK:</strong>
                     <p >Erkenwald Road,Barking, London <br>Mobile: +447476947376</p>
                 </div>
-                <div class="text-center">
+                <div class="text-left text-md-center">
                     <strong >Address Italy:</strong>
                     <p >Brescia,Italy</p>
                 </div>
@@ -44,18 +44,18 @@
             </div>
         </div>
 
-        <div class="credits mt-3 mb-2 ">
+        <div class="credits mt-3 mb-3 space-x-1">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/selecao-bootstrap-template/ -->
-            <a href="{{ route('index') }}" class="ml-3 mr-3">Home</a>
-            <a href="{{ route('about') }}" class="ml-3 mr-3">About Us</a>
-            <a href="{{ route('contact')}}" class="ml-3 mr-3">Contact Us</a>
-            <a href="{{ route('privacy') }}" class="ml-3 mr-3">Privacy Policy</a>
-            <a href="{{ route('conditions') }}" class="ml-3 mr-3">Terms & Condition</a>
-            <a target="_blank" href="https://blog.photodesignexpert.com" class="ml-3 mr-3">Blog</a>
-            <a href="{{ route('faq')}}" class="ml-3 mr-3">FAQ</a>
+            <a href="{{ route('index') }}" class="">Home</a>
+            <a href="{{ route('about') }}" class="">About Us</a>
+            <a href="{{ route('contact')}}" class="">Contact Us</a>
+            <a href="{{ route('privacy') }}" class="">Privacy Policy</a>
+            <a href="{{ route('conditions') }}" class="">Terms & Condition</a>
+            <a target="_blank" href="https://blog.photodesignexpert.com" class="">Blog</a>
+            <a href="{{ route('faq')}}" class="">FAQ</a>
 
 
         </div>

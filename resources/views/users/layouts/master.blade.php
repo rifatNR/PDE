@@ -48,7 +48,7 @@
         }
 
         .benefit_text {
-            margin-bottom: 2rem !important;
+            /* margin-bottom: 2rem !important; */
         }
 
         .trust {

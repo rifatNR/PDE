@@ -207,7 +207,7 @@
                 </div>
 
                 <div class="row content" data-aos="fade-up">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 px-0 px-md-3">
                         <div class="about_content">
                             <p class="overflow-auto pr-3 text-justify">
 
@@ -241,15 +241,15 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-lg-6 pt-4 pt-lg-0">
+                    <div class="col-lg-6 pt-4 pt-lg-0 mt-3 mt-md-0">
                         <div class="row justify-content-center">
                             <h5 class="font-weight-bold trust">TRUSTED FOR</h5>
-                            <h2 class="font-weight-bolder text-capitalize">Perfect photo editing company</h2>
+                            <h2 class="font-weight-bolder text-capitalize ">Perfect photo editing company</h2>
                         </div>
                         
-                        <div class="d-flex flex-row justify-content-between mt-3 card-body no-padding">
-                            <div class="col-6 pb-3 pt-3 font-weight-bold">
-                                <ul>
+                        <div class="d-flex flex-row justify-content-between mt-3 card-body no-padding row">
+                            <div class="col-12 col-md-6 pt-3 font-weight-bold pb-0">
+                                <ul class="mb-0">
                                     <li>Highly Expert & Professional 50+ Designer</li>
                                     <li>Double & high Bandwidth internet Connection</li>
                                     <li>Alternative power supply</li>
@@ -262,7 +262,7 @@
                                 <p>4. Latest & high configuration equipment</p>
                                 <p>5. Dedicated FTP Server</p> -->
                             </div>
-                            <div class="col-6 pb-3 pt-3 font-weight-bold">
+                            <div class="col-12 col-md-6 pb-3 pt-3 font-weight-bold">
                                 <ul>
                                     <li>We are available 24x7 in 365 days</li>
                                     <li>We provide faster turnaround</li>
@@ -299,7 +299,7 @@
                 <div class="position-relative">
 
 
-                    <div class="d-flex flex-row justify-content-between ">
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
 
                         <div class="">
                             <p class="font-weight-bold benefit_title"><i class="fas fa-users"></i> Dedicated team:</p>
@@ -313,7 +313,7 @@
                             <p class="text-justify benefit_text">We are offering a very low price depending on the requirements for your images.</p>
                             <p class="font-weight-bold benefit_title"><i class="fas fa-shipping-fast"></i> Faster
                                 delivery:</p>
-                            <p class="text-justify benefit_text">Skilled and trained teams edit thousands of images daily, which can deliver within 24
+                            <p class="text-justify benefit_text mb-0">Skilled and trained teams edit thousands of images daily, which can deliver within 24
                                 hours or perhaps quickly.</p>
                             <!--<div class="text-center">-->
                             <!--    @if(auth()->user())-->
@@ -323,7 +323,7 @@
                             <!--    @endif-->
                             <!--</div>-->
                         </div>
-                        <div class="benifits_div pt-5 text-center">
+                        <div class="benifits_div py-5 text-center">
                             <img src="{{ asset('assets/img/background/benefitits.png')}}" width="80%" alt="benifits-round-img">
                         </div>
                         <div class="">
@@ -356,10 +356,10 @@
 
                 <div class="row d-flex justify-content-center">
                     @if(auth()->user())
-                        <a href="{{ route('freeTrail') }}" class="btn btn-warning rounded mr-4 f-btn">Lets Your Free Trial</a>
+                        <a href="{{ route('freeTrail') }}" class="btn btn-warning rounded mr-0 mr-md-4 mb-3 mb-md-0 f-btn">Lets Your Free Trial</a>
                         <a href="{{ route('placeOrder') }}" class="btn btn-warning rounded f-btn">Place Your Order Now</a>
                     @else
-                        <a href="#" class="btn btn-warning rounded mr-4 f-btn" data-toggle="modal" data-target="#loginModal">Lets Your Free Trial</a>
+                        <a href="#" class="btn btn-warning rounded mr-0 mr-md-4 mb-3 mb-md-0 f-btn" data-toggle="modal" data-target="#loginModal">Lets Your Free Trial</a>
                         <a href="#" class="btn btn-warning rounded f-btn" data-toggle="modal" data-target="#loginModal">Place Your Order Now</a>
                     @endif
                 </div>
@@ -368,13 +368,13 @@
         </section>
 
         <!-- ======= Features Section ======= -->
-        <section id="features" class="features">
+        <section id="features" class="features mb-5 mb-md-0">
             <div class="container">
 
                 <ul class="nav nav-tabs row d-flex">
                     <li class="nav-item col-3" data-aos="zoom-in" id="clip" onclick="getActive(this.id)">
                         <a class="nav-link active show" data-toggle="tab" href="#tab-1">
-                            <i class="fal fa-bezier-curve" style="font-size: 48px;"></i>
+                            <i class="fal fa-bezier-curve"></i>
                             <h4 class="d-none d-lg-block">Clipping Path</h4>
                         </a>
                     </li>
@@ -394,7 +394,7 @@
                     </li>
                     <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="300" id="shadowCreation" onclick="getActive(this.id)">
                         <a class="nav-link" data-toggle="tab" href="#tab-4">
-                            <img id="shadowImg" class="filter-pest" src="{{ asset('assets/img/icons/shadow_creation.svg') }}" width="48px" height="48px"
+                            <img id="shadowImg" class="filter-pest shadow_icon" src="{{ asset('assets/img/icons/shadow_creation.svg') }}" width="48px" height="48px"
                                  alt="shadow-creation-icon">
                             <h4 class="d-none d-lg-block">Shaddow Creation</h4>
                         </a>
@@ -668,7 +668,7 @@
 
                 <?php $services = \App\Model\DynamicService::where('status', 1)->orderBy('id', 'ASC')->get() ?>
 
-                <ul id="portfolio-flters" class="d-flex" data-aos="fade-up">
+                <ul id="portfolio-flters" class="d-md-flex" data-aos="fade-up">
                     <li data-filter="*" class="filter-active" id="all" onclick="changeTab(this.id)">All</li>
                     @foreach ($services as $service)
                         <?php
@@ -847,7 +847,7 @@
 
                             <div class="position-relative price-img" style="height: 200px;">
                                 <img src="{{ asset('assets/img/pricing/clip1.jpg') }}" alt="clipping-path"
-                                     data-img="{{ asset('assets/img/pricing/clip2.jpg') }}" class="swim border"/>
+                                     data-img="{{ asset('assets/img/pricing/clip2.jpg') }}" class="swim border w-100"/>
                             </div>
 
                             <div class="position-relative">
@@ -866,11 +866,9 @@
                                     </li>
 
                                 </ul>
-                                <div class="btn-wrap">
+                                <div class="btn-wrap d-flex justify-content-between">
 
-                                    <a href="{{ route('pricePolicy') }}" class="btn btn-secondary rounded">More
-                                        Policy
-                                    </a>
+                                    <a href="{{ route('pricePolicy') }}" class="btn btn-secondary rounded">More Policy</a>
 
                                     @if(auth()->user())
                                         <a href="{{ route('placeOrder') }}" class="btn btn-warning rounded">Buy Now</a>
@@ -892,7 +890,7 @@
 
                             <div class="position-relative price-img" style="height: 200px;">
                                 <img src="{{ asset('assets/img/pricing/back1.jpg') }}" alt="remove-background"
-                                     data-img="{{ asset('assets/img/pricing/back2.jpg') }}" class="swim border"/>
+                                     data-img="{{ asset('assets/img/pricing/back2.jpg') }}" class="swim border w-100"/>
                             </div>
 
                             <div class="position-relative">
@@ -936,7 +934,7 @@
                             <div class="position-relative price-img" style="height: 200px;">
 
                                 <img src="{{ asset('assets/img/pricing/shadow1.jpg') }}" alt="shadow-creation"
-                                     data-img="{{ asset('assets/img/pricing/shadow2.jpg') }}" class="swim border"/>
+                                     data-img="{{ asset('assets/img/pricing/shadow2.jpg') }}" class="swim border w-100"/>
 
                             </div>
 
@@ -986,7 +984,7 @@
         </section>
 
 
-        <section id="clients" class="clients">
+        <section id="clients" class="clients mt-5 mt-md-0">
             <div class="container" data-aos="zoom-in">
 
                 <div class="row">

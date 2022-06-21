@@ -27,11 +27,11 @@
                 {{--          <img src="{{ asset('assets/img/background/meeting-1020145_1920.jpg')}}" width="100%" alt="">--}}
                 <div class="container-fullwidth">
                     <div class="text-center">
-                        <h2>About Us</h2>
+                        <h2 class="mt-md-0 mt-3">About Us</h2>
                     </div>
-                    <div class="about-inner-two pt-3 pb-3 mb-5 mt-5">
+                    <div class="about-inner-two pt-3 pb-3 mb-md-5 mb-3 mt-md-5 mt-3">
                         <div class="container">
-                            <p class="text-justify">
+                            <p class="text-justify about-us-blue">
                                 Photo Design Expert believes first in serving the customer and high-quality product. We
                                 want to make a good place for this type of work by faster, high quality and professionally
                                 edited images. So Photo Design Expert uses not only the latest & cutting edge software and
@@ -42,7 +42,7 @@
                         </div>
                     </div>
                     <div class="container">
-                        <div class="about-pera p-4">
+                        <div class="about-pera p-4 mb-md-0 mb-3">
                             <p class="text-justify">
                                 Technology-depend people's services are more spreading worldwide and pictures will be
                                 the most important here. When you look at the picture that you will understand the

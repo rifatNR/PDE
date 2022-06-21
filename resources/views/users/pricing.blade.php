@@ -13,20 +13,26 @@
     }
 
     .h-65 {
-        height: 45px !important;
+        /* height: 45px !important; */
         /* background: #f8f8f8 !important; */
     }
 
     .h-65 span {
-        position: relative;
-        top: -10px;
+        /* position: relative; */
+        /* top: -10px; */
     }
 
     .p-p {
-        position: relative !important;
-        top: -35px !important;
+        /* position: relative !important; */
+        /* top: -35px !important; */
         margin-right: 50px !important;
         font-family: "Open Sans", sans-serif !important;
+    }
+
+    @media only screen and (max-width: 768px) {
+        .p-p {
+            margin-right: 0px !important;
+        }
     }
 </style>
 
@@ -41,7 +47,7 @@
     <section id="pricing" class="pricing">
         <div class="container">
 
-            <div class="section-title mt-5 pt-5 text-center" data-aos="zoom-out">
+            <div class="section-title text-center" data-aos="zoom-out">
                 <h2>Pricing</h2>
                 <p>Our Competing Prices</p>
             </div>
@@ -59,8 +65,9 @@
 
                             <div class="row">
                                 <div class="col-12">
-                                    <h3 class="text-dark py-3 mb-4 mt-2 text-left border-bottom h-65">
-                                        <span>
+                                    <h3 class="d-flex flex-column flex-md-row justify-content-start justify-content-md-between align-items-start align-items-md-center
+                                                text-dark py-3 mb-4 mt-2 border-bottom h-65">
+                                        <span class="mb-2 mb-md-0">
                                             @if($item->service)
                                                 {{ $item->service->name }}
                                             @else
@@ -68,16 +75,15 @@
                                             @endif
                                         </span>
 
-                                        <p class="text-right p-start p-p">Price Starts From  ${{ $item->pricing_1_amount }}</p>
+                                        <span class="p-start p-p">Price Starts From  ${{ $item->pricing_1_amount }}</span>
                                     </h3>
                                 </div>
-                                <div class="col-5">
+                                <div class="col-12 col-md-5">
                                     <div class="position-relative price-img h-100 border" style="margin-right: 10px">
-                                        <img src="{{ asset( $item->image1 ) }}"
-                                        data-img="{{ asset( $item->image2 ) }}" class="swim"/>
+                                        <img class="abs-center h-100" src="{{ asset( $item->image1 ) }}" data-img="{{ asset( $item->image2 ) }}" class="swim"/>
                                     </div>
                                 </div>
-                                <div class="col-7">
+                                <div class="col-12 col-md-7">
                                     <div class="position-relative">
                                         <ul>
                                             <li class="py-3 px-5 border-bottom d-flex justify-content-between">
@@ -95,10 +101,10 @@
                                             <a href="{{ route('pricePolicy') }}" class="btn btn-secondary rounded mr-3">More Policy</a>
                                             @guest()
                                                 <a data-toggle="modal" data-target="#loginModal" class="btn btn-warning rounded mr-3">Free Trial</a>
-                                                <a data-toggle="modal" data-target="#loginModal" class="btn btn-secondary rounded mr-3">Place Order</a>
+                                                <a data-toggle="modal" data-target="#loginModal" class="btn btn-secondary rounded">Place Order</a>
                                             @else
                                                 <a href="{{ route('freeTrail') }}" class="btn btn-warning rounded mr-3">Free Trial</a>
-                                                <a href="{{ route('placeOrder') }}" class="btn btn-secondary rounded mr-3">Place Order</a>
+                                                <a href="{{ route('placeOrder') }}" class="btn btn-secondary rounded">Place Order</a>
                                             @endguest
 
                                         </div>
