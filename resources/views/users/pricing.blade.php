@@ -80,7 +80,15 @@
                                 </div>
                                 <div class="col-12 col-md-5">
                                     <div class="position-relative price-img h-100 border" style="margin-right: 10px">
-                                        <img class="abs-center h-100" src="{{ asset( $item->image1 ) }}" data-img="{{ asset( $item->image2 ) }}" class="swim"/>
+
+                                        {{-- ! Old Code --}}
+                                        {{-- <img class="abs-center h-100" src="{{ asset( $item->image1 ) }}" data-img="{{ asset( $item->image2 ) }}" class="swim"/> --}}
+                                        {{-- ! New Code --}}
+                                        <div class="twentytwenty-container">
+                                            <img class="img-fluid" style="width: 100%; height: 250px;" src="{{ asset( $item->image1 ) }}" data-img="{{ asset( $item->image1 ) }}" class="swim"/>
+                                            <img class="img-fluid" style="width: 100%; height: 250px;" src="{{ asset( $item->image2) }}" data-img="{{ asset( $item->image2 ) }}" class="swim"/>
+                                        </div>
+
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-7">
