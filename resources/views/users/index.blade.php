@@ -324,7 +324,7 @@
                             <!--</div>-->
                         </div>
                         <div class="benifits_div py-5 text-center">
-                            <img src="{{ asset('assets/img/background/benefitits.png')}}" width="80%" alt="benifits-round-img">
+                            <img src="{{ asset('assets/img/background/benefitits.webp')}}" width="80%" alt="benifits-round-img">
                         </div>
                         <div class="">
                             <p class="font-weight-bold benefit_title"><i class="fas fa-lock"></i> 100% Secure:</p>
@@ -641,7 +641,7 @@
                         <h2 class="font-weight-bold">How We Work For Quality Photo Editing</h2>
                     </div>
                     <div class="mt-3" data-aos="fade-right">
-                        <img src="{{ asset('assets/img/background/pc-flow.png')}}" width="80%" alt="our-work-flow">
+                        <img src="{{ asset('assets/img/background/pc-flow.webp')}}" width="80%" alt="our-work-flow">
                     </div>
 
                 </div>
@@ -747,7 +747,8 @@
                 </div>
 
             </div>
-        </section><!-- End Portfolio Section -->
+        </section>
+        <!-- End Portfolio Section -->
 
         <!-- ======= Testimonials Section ======= -->
         <section id="testimonials" class="testimonials">
@@ -909,7 +910,7 @@
                                     </li>
 
                                 </ul>
-                                <div class="btn-wrap">
+                                <div class="btn-wrap d-flex justify-content-between">
                                     <a href="{{ route('pricePolicy') }}" class="btn btn-secondary rounded">More
                                         Policy
                                     </a>
@@ -955,7 +956,7 @@
                                     </li>
 
                                 </ul>
-                                <div class="btn-wrap">
+                                <div class="btn-wrap d-flex justify-content-between">
                                     <a href="{{ route('pricePolicy') }}" class="btn btn-secondary rounded">More
                                         Policy
                                     </a>
@@ -990,27 +991,27 @@
                 <div class="row">
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ asset('assets/img/clients/google.png')}}" class="img-fluid" alt="client-google">
+                        <img src="{{ asset('assets/img/clients/google.webp')}}" class="img-fluid" alt="client-google">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ asset('assets/img/clients/aliexpress.png')}}" class="img-fluid" alt="client-aliexpress">
+                        <img src="{{ asset('assets/img/clients/aliexpress.webp')}}" class="img-fluid" alt="client-aliexpress">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ asset('assets/img/clients/sears.png')}}" class="img-fluid" alt="client-sears">
+                        <img src="{{ asset('assets/img/clients/sears.webp')}}" class="img-fluid" alt="client-sears">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ asset('assets/img/clients/ozon.png')}}" class="img-fluid" alt="client-ozon">
+                        <img src="{{ asset('assets/img/clients/ozon.webp')}}" class="img-fluid" alt="client-ozon">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ asset('assets/img/clients/walmart.png')}}" class="img-fluid" alt="client-walmart">
+                        <img src="{{ asset('assets/img/clients/walmart.webp')}}" class="img-fluid" alt="client-walmart">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ asset('assets/img/clients/amazon.png')}}" class="img-fluid" alt="client-amazon">
+                        <img src="{{ asset('assets/img/clients/amazon.webp')}}" class="img-fluid" alt="client-amazon">
                     </div>
 
                 </div>

@@ -7,7 +7,7 @@
               <div class="logo mr-auto">
         {{--        <h1 class="text-light"><a href="{{ route('index')}}">PDE</a></h1>--}}
                 <!-- Uncomment below if you prefer to use an image logo -->
-                  <a href="{{ route('index')}}"><img src="{{ asset('assets/img/logo.png')}}" alt="" class="img-fluid"></a>
+                  <a href="{{ route('index')}}"><img src="{{ asset('assets/img/logo.webp')}}" alt="" class="img-fluid"></a>
               </div>
         
               <nav class="nav-menu d-none d-lg-block">
