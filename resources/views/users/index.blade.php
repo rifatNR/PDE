@@ -985,7 +985,7 @@
         </section>
 
 
-        <section id="clients" class="clients mt-5 mt-md-0">
+        {{-- <section id="clients" class="clients mt-5 mt-md-0">
             <div class="container" data-aos="zoom-in">
 
                 <div class="row">
@@ -1017,7 +1017,14 @@
                 </div>
 
             </div>
-        </section>
+        </section> --}}
+        <div id="clients" class="clients mt-5 mt-md-0">
+            <div class="container" data-aos="zoom-in">
+                <img class="w-100" src="{{ asset('assets/img/clients/all_clients.webp')}}" alt="">
+            </div>
+        </div>
+
+
 
         <section>
             <div class="container">
